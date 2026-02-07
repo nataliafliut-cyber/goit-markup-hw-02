@@ -58,6 +58,10 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.address-link {
+  font-weight: 400;
+}
+
 
 /* ===== HERO ===== */
 .hero {
