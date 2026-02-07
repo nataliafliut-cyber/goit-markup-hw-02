@@ -62,3 +62,23 @@ color: #434455;
 .page-footer {
     background-color: #2E2F42;
 }
+
+.hero {
+  background-color: #2E2F42;
+}
+
+.hero-title {
+  color: #ffffff;
+text-align: center;
+}
+
+.hero-button {
+  color: #ffffff;
+  background-color: #4D5AE5;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404BBF;
+}
+
